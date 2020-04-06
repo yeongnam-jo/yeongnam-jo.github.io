@@ -5,7 +5,7 @@ categories: GitHub GithubPages
 ---
 
 
-아래의 동영상 링크를 눌러주세요.
+동영상 링크를 눌러주세요!
 [동영상 링크]
 
 [동영상 링크]: https://youtu.be/SKmKJviFIE4
