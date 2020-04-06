@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "yeongnamjo-kopo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Yeongnam Jo"
 description              : "An amazing website."
 url                      : "https://yeongnamjo-kopo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
