@@ -11,7 +11,7 @@ categories: GitHub GithubPages
 ## 1. 저장소란(Git repository)?
 저장소(Git repository)란 말그대로 파일이나 폴더를 저장해 두는 곳입니다. 그런데 Git 저장소가 제공하는 좋은 점 중 하나는 파일이 변경 이력 별로 구분되어 저장된다는 점입니다. 비슷한 파일이라도 실제 내용 일부 문구가 서로 다르면 다른 파일로 인식하기 때문에 파일을 변경 사항 별로 구분해 저장할 수 있습니다.
 
-![Alt text](repository.png)
+![repository](https://user-images.githubusercontent.com/63223355/78577632-54555880-7869-11ea-9806-1ec262e80ef5.png)
 
 ## 2. 원격 저장소(Remote repository)와 로컬 저장소(Local repository)
 Git은 원격 저장소와 로컬 저장소 두 종류의 저장소를 제공합니다. 평소에는 내 PC의 로컬 저장소에서 작업하다가 작업한 내용을 공개하고 싶을 때에 원격 저장소에 업로드 합니다. 물론 원격 저장소에서 다른 사람이 작업한 파일을 로컬 저장소로 가져올 수도 있습니다.
