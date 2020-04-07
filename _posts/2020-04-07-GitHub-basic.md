@@ -8,6 +8,8 @@ categories: GitHub GithubPages
 동영상 링크를 눌러주세요!
 [동영상 링크]
 
+<iframe width="725" height="409" src="https://www.youtube.com/embed/SKmKJviFIE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. 저장소란(Git repository)?
 저장소(Git repository)란 말그대로 파일이나 폴더를 저장해 두는 곳입니다. 그런데 Git 저장소가 제공하는 좋은 점 중 하나는 파일이 변경 이력 별로 구분되어 저장된다는 점입니다. 비슷한 파일이라도 실제 내용 일부 문구가 서로 다르면 다른 파일로 인식하기 때문에 파일을 변경 사항 별로 구분해 저장할 수 있습니다.
 
