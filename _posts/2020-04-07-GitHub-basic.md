@@ -1,5 +1,5 @@
 ---
-title: "GitHub 기본 사용 방법 및 GitHub Pages 만들기"
+title: "[20.04.06.] GitHub 기본 사용 방법 및 GitHub Pages 만들기"
 date: 2020-04-07 00:16:30 -0400
 categories: GitHub GithubPages
 ---
